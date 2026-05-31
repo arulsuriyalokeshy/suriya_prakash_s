@@ -30,7 +30,7 @@ class SURIYA:
     def __init__(self):
         self.name       = "Suriya"
         self.role       = ["Cybersecurity Engineer", "System Architect"]
-        self.location   = "Mumbai, India 🇮🇳"
+        self.location   = "Chennai, India 🇮🇳"
         self.focus      = ["Offensive Security", "Zero Trust", "Threat Modeling"]
         self.philosophy = "Offense informs defense. Break it before they do."
         self.currently  = "Building breach-proof zero-trust microservices"
