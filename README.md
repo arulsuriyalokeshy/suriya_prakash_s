@@ -171,12 +171,7 @@ class SURIYA:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0000?style=for-the-badge&logo=linkedin&logoColor=CC0000)](https://linkedin.com/in/SURIYA)
-[![Twitter](https://img.shields.io/badge/Twitter-0a0000?style=for-the-badge&logo=x&logoColor=CC0000)](https://twitter.com/SURIYA)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-0a0000?style=for-the-badge&logo=hackthebox&logoColor=CC0000)](https://app.hackthebox.com/profile/SURIYA)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0a0000?style=for-the-badge&logo=tryhackme&logoColor=CC0000)](https://tryhackme.com/p/SURIYA)
-[![Email](https://img.shields.io/badge/Email-0a0000?style=for-the-badge&logo=gmail&logoColor=CC0000)](mailto:suriya@email.com)
-[![Blog](https://img.shields.io/badge/Blog-0a0000?style=for-the-badge&logo=hashnode&logoColor=CC0000)](https://SURIYA.hashnode.dev)
+[![Email](https://img.shields.io/badge/Email-0a0000?style=for-the-badge&logo=gmail&logoColor=CC0000)](mailto:suriyaprakashsuriya371@gmail.com)
 
 </div>
 
