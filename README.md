@@ -1,50 +1,15 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--              ANIMATED SURIYA LOGO                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<svg width="460" height="90" viewBox="0 0 460 90" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="rg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#660000"/>
-      <stop offset="50%" stop-color="#ff2222"/>
-      <stop offset="100%" stop-color="#660000"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <style>
-    .sl{font-family:'Courier New',monospace;font-size:64px;font-weight:900;fill:#cc0000;filter:url(#glow)}
-    .ul{fill:#cc0000}
-  </style>
-  <text class="sl" x="8"   y="72">S</text>
-  <text class="sl" x="62"  y="72">U</text>
-  <text class="sl" x="120" y="72">R</text>
-  <text class="sl" x="174" y="72">I</text>
-  <text class="sl" x="200" y="72">Y</text>
-  <text class="sl" x="256" y="72">A</text>
-  <rect class="ul" x="8" y="78" width="310" height="3" rx="1"/>
-  <circle cx="340" cy="40" r="3" fill="#cc0000" opacity="0.7">
-    <animate attributeName="opacity" values="0.7;0.1;0.7" dur="1.8s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="360" cy="55" r="2" fill="#880000" opacity="0.5">
-    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="2.3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="350" cy="25" r="1.5" fill="#ff0000" opacity="0.6">
-    <animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.5s" repeatCount="indefinite"/>
-  </circle>
-</svg>
+<!-- SURIYA LOGO via capsule-render (GitHub-safe animated banner) -->
+![SURIYA](https://capsule-render.vercel.app/api?type=waving&color=8B0000,CC0000,0a0000&height=160&section=header&text=SURIYA&fontSize=72&fontColor=ff2222&fontAlignY=45&animation=fadeIn&desc=Cybersecurity%20Engineer%20%7C%20System%20Architect&descAlignY=70&descSize=14&descColor=884444)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=CC0000&center=true&vCenter=true&width=550&lines=%5B+INITIALIZING+SYSTEM+...+%5D;Cybersecurity+Engineer+%7C+Red+Teamer;System+Architect+%7C+Threat+Hunter;Zero+Trust+Advocate+%7C+CTF+Player;%24+whoami+--+SURIYA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=CC0000&center=true&vCenter=true&width=550&lines=%5B+INITIALIZING+SYSTEM+...+%5D;Cybersecurity+Engineer+%7C+Red+Teamer;System+Architect+%7C+Threat+Hunter;Zero+Trust+Advocate+%7C+CTF+Player;%24+whoami+%E2%86%92+SURIYA)](https://git.io/typing-svg)
 
 <br/>
 
-![](https://capsule-render.vercel.app/api?type=waving&color=8B0000,CC0000&height=100&section=header&text=&animation=fadeIn)
+![visitors](https://komarev.com/ghpvc/?username=SURIYA&color=CC0000&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -226,8 +191,6 @@ class SURIYA:
 ╚══════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=SURIYA&color=CC0000&style=flat-square&label=PROFILE+VIEWS)
-
-![](https://capsule-render.vercel.app/api?type=waving&color=8B0000,CC0000&height=80&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&color=0a0000,CC0000,8B0000&height=100&section=footer)
 
 </div>
